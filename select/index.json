@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "懺悔参り／まふまふ【歌ってみた】",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-20T04:57:06.901415Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "懺悔参り",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_懺悔参り_まふまふ.txt"
+    }
+  ]
+}
